@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/add_image" android:title="Add an Image of the damage"></item>
+    <item android:id="@+id/list_fixer" android:title="List of registered fixers"></item>
+
+
+</menu>

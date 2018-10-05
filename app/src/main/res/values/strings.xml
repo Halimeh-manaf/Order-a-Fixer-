@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">firebase2</string>
+    <string name="title_activity_orders">orders</string>
+</resources>
